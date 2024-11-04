@@ -4,3 +4,4 @@ máy tính
 tính toán
 toán hình
 hình học
+học hành
